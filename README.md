@@ -36,20 +36,19 @@ Threading
 Winsound (Windows alert sound)
 
 📦 Installation
-1️⃣ Clone the repository
-git clone https://github.com/Mudodzwa-Carol/focuskitty.git
-cd focuskitty
-2️⃣ Install dependencies
-pip install -r requirements.txt
-3️⃣ Add Required Images
 
+1️⃣ Clone the repository
+git clone https://github.com/Mudodzwa-Carol/focuskitty.git 
+cd focuskitty
+2️⃣ Install dependencies 
+pip install -r requirements.txt 
+3️⃣ Add Required Images
 Place these images in the same folder as the Python file:
 
-kitty_happy.jpeg
-kitty_expectant.jpeg
-kitty_eating.jpeg
+kitty_happy.jpeg 
+kitty_expectant.jpeg 
+kitty_eating.jpeg 
 kitty_crying.jpeg
-
 4️⃣ Run the app
 python focuskitty.py
 
